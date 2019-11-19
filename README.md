@@ -2,9 +2,9 @@
 script to automate extraction of search results with query dorks
 
 # usage
-git clone https://github.com/offensivesubversion/search-engine-dorking.git
-pip3 install -r requirements.txt
-python3 dork.py
+git clone https://github.com/offensivesubversion/search-engine-dorking.git\
+pip3 install -r requirements.txt\
+python3 dork.py\
 
 # misc
 the default dorks.txt file contains no real dorks
