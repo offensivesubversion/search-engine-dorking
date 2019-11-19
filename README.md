@@ -16,3 +16,7 @@ set the 'pages' variable to however many pages you want to scrape for each query
 set the 'verbose' boolean to True to see the dorks printed as theyre executed
 
 results are printed to stdout
+
+consider running this through torify with:
+
+torify python3 dork.py
